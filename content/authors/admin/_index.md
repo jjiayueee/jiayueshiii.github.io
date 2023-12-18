@@ -98,7 +98,6 @@ languages:
     percent: 100
 
 
-project:
 
 
 # Awards.
